@@ -1,1 +1,3 @@
-# heating-3d-objects
+# Heating 3d-objects
+
+![Example](example.gif)
